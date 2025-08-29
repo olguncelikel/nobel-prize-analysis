@@ -36,12 +36,13 @@ Along with the honor, prestige, and substantial prize money, each recipient rece
 
 ## Dataset
 
-- **File:** `data/nobel.csv`  
+- **File:** `nobel.csv`  
 - **Source:** [Nobel Prize API](https://www.nobelprize.org/about/developer-zone-2/)  
-- **Columns include:** 'year', 'category', 'prize', 'motivation', 'prize_share', 'laureate_id',
-       'laureate_type', 'full_name', 'birth_date', 'birth_city',
-       'birth_country', 'sex', 'organization_name', 'organization_city',
-       'organization_country', 'death_date', 'death_city' and 'death_country'.
+- **Columns include:** `year`, `category`, `prize`, `motivation`, `prize_share`, `laureate_id`,
+`laureate_type`, `full_name`, `birth_date`, `birth_city`,
+`birth_country`, `sex`, `organization_name`, `organization_city`,
+`organization_country`, `death_date`, `death_city` and `death_country`.
+
 
 ## How to Use
 
