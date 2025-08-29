@@ -45,3 +45,23 @@ Along with the honor, prestige, and substantial prize money, each recipient rece
 1. Clone this repository:
    ```bash
    git clone https://github.com/yourusername/nobel-prize-analysis.git
+## How to Use
+
+1. Clone this repository:
+
+   ```bash
+   git clone https://github.com/yourusername/nobel-prize-analysis.git
+2. Navigate to the project folder:
+
+   ```bash
+   cd nobel-prize-analysis
+3. Open the Jupyter Notebook or Python scripts to explore the dataset and analyses.
+
+## Visualizations
+
+The project contains several plots, including:
+Proportion of US-born laureates by decade
+Proportion of female laureates by decade and category
+Lists of repeat Nobel Prize winners
+
+Done by @olguncelikel
