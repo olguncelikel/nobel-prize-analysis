@@ -1,6 +1,6 @@
 # Nobel Prize Data Analysis (1901–2023)
 
-![Nobel Prize](data/Nobel_Prize.png)
+![Nobel Prize](Nobel_Prize.png)
 
 This project analyzes the Nobel Prize dataset, which contains information about all laureates from the inception of the awards in 1901 up to 2023. The dataset is sourced from the **Nobel Prize API** and is included as `nobel.csv` in the `data` folder.
 
