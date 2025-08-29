@@ -41,15 +41,10 @@ Along with the honor, prestige, and substantial prize money, each recipient rece
 - **Columns include:** 'year', 'category', 'prize', 'motivation', 'prize_share', 'laureate_id',
        'laureate_type', 'full_name', 'birth_date', 'birth_city',
        'birth_country', 'sex', 'organization_name', 'organization_city',
-       'organization_country', 'death_date', 'death_city', 'death_country',
-       'is_female', 'us_born' and 'decade'.
+       'organization_country', 'death_date', 'death_city' and 'death_country'.
 
 ## How to Use
 
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/nobel-prize-analysis.git
-## How to Use
 
 1. Clone this repository:
 
